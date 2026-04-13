@@ -32,6 +32,3 @@ JavaScript: Funcionalidad de encriptación y desencriptación del texto.
 
 ## Créditos
 Desarrollado por Santino Hunter.
-
-## Licencia
-Este proyecto está bajo la Licencia MIT. Consulta el archivo LICENSE para más detalles.
